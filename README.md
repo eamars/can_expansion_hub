@@ -2,12 +2,12 @@
 ==============
 The CAN hub is designed to expand the number of CAN devices without needing to make custom wiring loom. 
 
-![pcb_view](resources/pcb_overview)
+![pcb_view](resources/pcb_overview.png)
 ![3d_bottom_view](resources/3d_view_bottom.png)
 
 BOM
 ---
-5x Therminal Block P5.08 4 Rows.
+* 5x Therminal Block P5.08 4 Rows.
 
 
 Manufacturing
