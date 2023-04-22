@@ -446,7 +446,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../cad/can_expansion_hub.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
